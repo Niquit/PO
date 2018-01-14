@@ -2,7 +2,7 @@ clc;
 clf;
 clear all;
 
-Path = 'BAZA0/s';
+Path = 'Baza/s';
 
 K=40;
 L=5;
